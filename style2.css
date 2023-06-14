@@ -1,0 +1,26 @@
+.bg{
+    background: linear-gradient(135deg, 
+    #112d4e 100%, #164884 0%);
+
+}
+footer{
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    padding: 1rem 8%;
+    background: linear-gradient(135deg, 
+    #112d4e 0%, #164884 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.color{
+    background: #fff;
+
+}
+.navbar-collapse{
+    text-transform: uppercase;
+}
